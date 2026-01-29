@@ -1,0 +1,17 @@
+Python 3.8+
+
+Libraries:
+
+pandas
+
+numpy
+
+scikit-learn
+
+matplotlib
+
+seaborn
+
+streamlit
+
+joblib
